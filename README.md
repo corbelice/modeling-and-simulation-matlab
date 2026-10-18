@@ -38,7 +38,9 @@ Tools and concepts
 Teamwork and source code
 This was a collaborative academic project, not an individual software project. The descriptions above summarize the laboratory assignments; they are not a claim that I implemented every component personally.
 The original group repositories are maintained separately. For reference:
-- Group repository — ModSim Praktikum
+
+[Original group repository — ModSim Praktikum](https://github.com/lukanna04/ModSim_Praktikum)
+
 The complete group source code is not redistributed here. This repository serves as a technical overview of the work undertaken during the course.
 Academic context
 - University: Technische Universität Dresden
